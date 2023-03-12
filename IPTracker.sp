@@ -38,7 +38,7 @@ public OnClientPostAdminCheck(client)
     GetClientIP(client, ip, sizeof(ip));
     GetClientName(client, name, sizeof(name));
 
-    GetClientAuthId(client, AuthId_SteamID64, steamID, sizeof(steamID))
+    GetClientAuthId(client, AuthId_Steam2, steamID, sizeof(steamID))
     
     if (db == INVALID_HANDLE)
     {
