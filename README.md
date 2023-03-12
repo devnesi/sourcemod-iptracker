@@ -1,4 +1,4 @@
-[Any] IP Tracker (NO VAC SERVERS)
+# [Any] IP Tracker (NO VAC SERVERS)
 
 Description:  
 Logs players IP addresses to two database tables.
